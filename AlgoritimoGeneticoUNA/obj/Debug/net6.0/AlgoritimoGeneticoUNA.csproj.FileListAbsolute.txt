@@ -1,0 +1,14 @@
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritimoGeneticoUNA\bin\Debug\net6.0\AlgoritimoGeneticoUNA.exe
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritimoGeneticoUNA\bin\Debug\net6.0\AlgoritimoGeneticoUNA.deps.json
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritimoGeneticoUNA\bin\Debug\net6.0\AlgoritimoGeneticoUNA.runtimeconfig.json
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritimoGeneticoUNA\bin\Debug\net6.0\AlgoritimoGeneticoUNA.dll
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritimoGeneticoUNA\bin\Debug\net6.0\AlgoritimoGeneticoUNA.pdb
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritimoGeneticoUNA\obj\Debug\net6.0\AlgoritimoGeneticoUNA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritimoGeneticoUNA\obj\Debug\net6.0\AlgoritimoGeneticoUNA.AssemblyInfoInputs.cache
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritimoGeneticoUNA\obj\Debug\net6.0\AlgoritimoGeneticoUNA.AssemblyInfo.cs
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritimoGeneticoUNA\obj\Debug\net6.0\AlgoritimoGeneticoUNA.csproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritimoGeneticoUNA\obj\Debug\net6.0\AlgoritimoGeneticoUNA.dll
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritimoGeneticoUNA\obj\Debug\net6.0\refint\AlgoritimoGeneticoUNA.dll
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritimoGeneticoUNA\obj\Debug\net6.0\AlgoritimoGeneticoUNA.pdb
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritimoGeneticoUNA\obj\Debug\net6.0\AlgoritimoGeneticoUNA.genruntimeconfig.cache
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritimoGeneticoUNA\obj\Debug\net6.0\ref\AlgoritimoGeneticoUNA.dll

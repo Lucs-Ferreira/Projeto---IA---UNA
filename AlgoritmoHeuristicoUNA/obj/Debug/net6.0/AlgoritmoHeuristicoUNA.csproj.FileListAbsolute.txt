@@ -1,0 +1,14 @@
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritmoHeuristicoUNA\bin\Debug\net6.0\AlgoritmoHeuristicoUNA.exe
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritmoHeuristicoUNA\bin\Debug\net6.0\AlgoritmoHeuristicoUNA.deps.json
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritmoHeuristicoUNA\bin\Debug\net6.0\AlgoritmoHeuristicoUNA.runtimeconfig.json
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritmoHeuristicoUNA\bin\Debug\net6.0\AlgoritmoHeuristicoUNA.dll
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritmoHeuristicoUNA\bin\Debug\net6.0\AlgoritmoHeuristicoUNA.pdb
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritmoHeuristicoUNA\obj\Debug\net6.0\AlgoritmoHeuristicoUNA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritmoHeuristicoUNA\obj\Debug\net6.0\AlgoritmoHeuristicoUNA.AssemblyInfoInputs.cache
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritmoHeuristicoUNA\obj\Debug\net6.0\AlgoritmoHeuristicoUNA.AssemblyInfo.cs
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritmoHeuristicoUNA\obj\Debug\net6.0\AlgoritmoHeuristicoUNA.csproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritmoHeuristicoUNA\obj\Debug\net6.0\AlgoritmoHeuristicoUNA.dll
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritmoHeuristicoUNA\obj\Debug\net6.0\refint\AlgoritmoHeuristicoUNA.dll
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritmoHeuristicoUNA\obj\Debug\net6.0\AlgoritmoHeuristicoUNA.pdb
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritmoHeuristicoUNA\obj\Debug\net6.0\AlgoritmoHeuristicoUNA.genruntimeconfig.cache
+D:\Visual Studio\repos\GerenciamentodeTarefas-CSharp\AlgoritmoHeuristicoUNA\obj\Debug\net6.0\ref\AlgoritmoHeuristicoUNA.dll
